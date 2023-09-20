@@ -39,5 +39,3 @@ We use GitHub Actions to automate the deployment of this web app. The app is hos
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 Happy task managing!
-```
-
