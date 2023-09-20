@@ -1,4 +1,3 @@
-```markdown
 # To-Do List Web App
 
 Welcome to the To-Do List Web App project! This project is a simple web application for managing your tasks and to-do lists. You can easily add and remove tasks on this web app.
