@@ -34,15 +34,6 @@ To run this web app locally or contribute to the project, follow these steps:
 
 We use GitHub Actions to automate the deployment of this web app. The app is hosted using GitHub Pages, and changes pushed to the `main` branch are automatically deployed.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -m "Add your feature"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Create a pull request to merge your changes into the `main` branch.
 
 ## License
 
